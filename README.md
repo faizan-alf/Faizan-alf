@@ -64,6 +64,13 @@ Here you'll find:
 * Python Applications
 * C/C++ Projects
 
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Muhammed Al Faizan S](https://www.linkedin.com/in/muhammed-alfaizan-771410360/)
+* 📧 Email: [your-email@example.com](muhammedalfaizan@gmail.com)
+
+Feel free to connect with me for collaboration, learning opportunities, and professional networking.
+
 ---
 
 ## 📈 GitHub Journey
